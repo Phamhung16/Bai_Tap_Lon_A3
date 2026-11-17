@@ -5,9 +5,9 @@
 - Ngày cập nhật: 2026-11-17
 - Tác giả: Phạm Văn Việt Hùng (2071020090).
 - Mã phiên bản tài liệu: `v1.0.0` (nhãn bàn giao, không thay thế định danh commit).
-- Mã bản mã nộp: [Điền mã commit đầy đủ] (`main`).
+- Mã bản mã nộp: 9cecfb8553b7e669df65efefc0d3af61552015a4 (`main`).
 - Repository: https://github.com/Phamhung16/Bai_Tap_Lon_A3.git 
-- Đúng mã nguồn của bản này: 106536e.
+- Đúng mã nguồn của bản này: 9cecfb8.
 - Nguồn xuất bản: GitHub Pages, https://phamhung16.github.io/Bai_Tap_Lon_A3/.
 - Thiết kế tham chiếu: page Frame 1 trong [file Figma](https://www.figma.com/design/ObKV1W3bJGmMLmbmB6ctUa).
 
